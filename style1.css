@@ -1,0 +1,102 @@
+body {
+    font-family: 'Lato', Verdana;
+    font-size: 100%;
+    background: rgb(177, 175, 175);
+    float: none;
+    
+    width: 62%;
+    display: table;
+    margin: 180px 450px;
+    }
+    
+    header{
+        top: 15000px; 
+        left: 2000px;
+        background: #383737;
+        border-radius:  15px 15px 0 0;
+        padding: 10px;
+       
+    }
+    p{
+    position: absolute;
+    color: #491616;
+    size: 28px;
+    top: 290px ;
+    left: 1200px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    k{
+        position: absolute;
+        color: #491616;
+        size: 28px;
+        top: 400px ;
+        left: 1200px;
+        font-size: 20px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    b{
+        position: absolute;
+        color: #491616;
+        size: 28px;
+        top: 500px ;
+        left: 1200px;
+        font-size: 20px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    e{
+        position: absolute;
+    color: #491616;
+    size: 28px;
+    top: 600px ;
+    left: 1200px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    button{
+        background-color: tomato;
+        text-align: center;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      padding: 10px 30px;
+      position: relative;
+      top: -400px;
+      display: block;
+       border: none;
+       box-shadow: #f8f8f8;
+       border-radius: 20px;
+     transform:translate(400px 150px);
+     
+     margin: 60px 600px ;
+    }
+   #button:hover {
+       background-color: #f8f8f8;
+   }
+    a{
+        text-decoration: none;
+        color: #f8f8f8;
+    }
+    
+    footer{
+        text-align: center;
+        background: #ffffff;
+        border-radius: 0 0 15px 15px ;
+        padding: 10px;
+       
+    
+    }
+    *{
+    margin: 0;
+    padding: 0;
+    }
+    form{
+        background: #ffffff;
+          border-radius: 5px;
+          size: 500px;
+          height: 450px;
+          width: 1200px;
+    }
+   
+    
+    
+    
