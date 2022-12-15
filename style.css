@@ -43,7 +43,7 @@ button{
 }
 footer{
     text-align: center;
-    background: #ffffff;
+    background: #383737;
     border-radius: 0 0 15px 15px;
     padding: 10px;
    
@@ -64,5 +64,3 @@ form{
       height: 450px;
       width: 1200px;
 }
-
-
