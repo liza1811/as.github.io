@@ -16,9 +16,14 @@ body {
         border-radius:  15px 15px 0 0;
         padding: 15px;
     }
-.img{
-    display:block;
-    margin:auto;
+   
+.img img{
+    position: absolute;
+    border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 15px; /* Расстояние от картинки до рамки */
+    background: #204e4e; /* Цвет фона */
+    margin-right: 100px; /* Отступ справа */
+    margin-bottom: 100px; /* Отступ снизу */
 }
     a{
         text-decoration: none;
@@ -33,6 +38,17 @@ body {
        
     
     }
+    d{
+        color: rgb(255, 255, 255);
+        text-align: right;
+        font-size: 18px;
+        font-family: Arial Narrow, sans-serif;
+       }
+       d:hover
+       {
+         color: rgb(0, 0, 0);
+         font-weight: bold;
+       }
     
     *{
     margin: 0;
