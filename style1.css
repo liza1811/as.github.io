@@ -110,14 +110,17 @@ body {
        
     
     }
-    d{
-        color: black;
-        text-align: right;
-       }
-       d:hover
-       {
-         color: rgb(32, 48, 66);
-       }
+  d{
+  color: rgb(255, 255, 255);
+  text-align: right;
+  font-size: 18px;
+  font-family: Arial Narrow, sans-serif;
+ }
+ d:hover
+ {
+   color: rgb(0, 0, 0);
+   font-weight: bold;
+ }
     *{
     margin: 0;
     padding: 0;
