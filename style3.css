@@ -1,0 +1,51 @@
+body {
+    font-family: 'Lato', Verdana;
+    font-size: 100%;
+    background:  rgb(176, 204, 233);
+    float: none;
+    
+    width: 50%;
+    display: table;
+    margin: 150px 350px;
+    }
+    
+    header{
+        top: 15000px; 
+        left: 2000px;
+        background: #204e4e;
+        border-radius:  15px 15px 0 0;
+        padding: 15px;
+    }
+.img{
+    display:block;
+    margin:auto;
+}
+    a{
+        text-decoration: none;
+        color: #f8f8f8;
+    }
+    
+    footer{
+        text-align: center;
+        background: #204e4e;
+        border-radius: 0 0 15px 15px ;
+        padding: 10px;
+       
+    
+    }
+    
+    *{
+    margin: 0;
+    padding: 0;
+    }
+    form{
+        background: #ffffff;
+          border-radius: 5px;
+          size: 500px;
+          height: 600px;
+          width: 1200px;
+    }
+   
+    
+    
+    

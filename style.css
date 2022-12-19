@@ -1,49 +1,55 @@
 body {
 font-family: 'Lato', Verdana;
 font-size: 100%;
-background: rgb(177, 175, 175);
-float: none;
+background:  rgb(176, 204, 233);
 
 width: 62%;
 display: table;
-margin: 180px 450px;
+margin: 150px 350px;
 
 }
 
 header{
     top: 15000px; 
     left: 2000px;
-    background: #383737;
+    background: #204e4e;
     border-radius:  15px 15px 0 0;
-    padding: 10px;
+    padding: 15px;
     
 }
 p{
-color: #491616;
+color: #8ac1c5;
 position: absolute;
- top: 350px ;
- left: 800px;
-font-size: 60px;
+ top: 250px ;
+ left: 980px;
+font-size: 50px;
 font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 button{
-  background-color: tomato;
+  background-color: #8ac1c5;
     text-align: center;
-  padding: 10px 30px;
+  padding: 10px 70px;
   display: inline-block;
    border: none;
    box-shadow: #f8f8f8;
-   font-size: 20px;
-   border-radius: 20px;
+   font-size: 40px;
+   border-radius: 40px;
  position: absolute;
- top: 450px ;
- left: 1000px;
+ top: 530px ;
+ left:1070px;
  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+
+
+ button:hover {
+  background: #132936; /* Цвет фона под ссылкой */ 
+  color: rgb(0, 0, 0); 
+ }
 footer{
     text-align: center;
-    background: #383737;
+    background: #204e4e;
     border-radius: 0 0 15px 15px;
     padding: 10px;
    
@@ -53,14 +59,29 @@ a{
   text-decoration: none;
   color: #f8f8f8;
 }
+d{
+  color: black;
+  text-align: right;
+ }
+ d:hover
+ {
+   color: rgb(32, 48, 66);
+ }
 *{
 margin: 0;
 padding: 0;
+}
+v{
+  margin-top: 150px;
+
 }
 form{
     background: #ffffff;
       border-radius: 5px;
       size: 500px;
-      height: 450px;
-      width: 1200px;
+      height: 600px;
+          width: 1200px;
+    
 }
+
+
